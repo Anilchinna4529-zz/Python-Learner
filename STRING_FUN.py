@@ -1,0 +1,10 @@
+A = 'Python'
+print(len(A))
+print(str(10.6))
+print(max(A))
+print (min(A))
+print(ord('A'))
+print(chr(97))
+print(chr(65))
+print(repr(123))
+print("%s"%complex(2,4))
